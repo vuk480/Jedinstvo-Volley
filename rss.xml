@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OK Jedinstvo</title>
+    <link>https://vuk480.github.io/Jedinstvo-Volley</link>
+    <description>Odbojkaški klub Jedinstvo</description>
+    
+    <item>
+      <title>Najnovije Vesti</title>
+      <link>https://vuk480.github.io/Jedinstvo-Volley/vesti.html</link>
+      <description>Crnogorska trojka u reprezentaciji, Vladan Stojanović MVP, Novi član tima</description>
+      
+    </item>
+   
+  </channel>
+</rss>
