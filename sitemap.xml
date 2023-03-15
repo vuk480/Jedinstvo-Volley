@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 		<url>
-			<loc>https://okjedinstvo.000webhostapp.com/index.html</loc>
+			<loc>https://vuk480.github.io/Jedinstvo-Volley/index.html</loc>
 			<lastmod>2023-14-03</lastmod>
 			<changefreq>weekly</changefreq>
 			<priority>1</priority>
 		</url>
 		<url>
-			<loc>https://okjedinstvo.000webhostapp.com/galerija.html</loc>
+			<loc>https://vuk480.github.io/Jedinstvo-Volley/galerija.html</loc>
 			<lastmod>2023-14-03</lastmod>
 			<changefreq>monthly</changefreq>
 			<priority>0.8</priority>
 		</url>
 		<url>
-			<loc>https://okjedinstvo.000webhostapp.com/igraci.html</loc>
+			<loc>https://vuk480.github.io/Jedinstvo-Volley/igraci.html</loc>
 			<lastmod>2023-14-03</lastmod>
 			<changefreq>monthly</changefreq>
 			<priority>0.7</priority>
 		</url>
 		<url>
-			<loc>https://okjedinstvo.000webhostapp.com/Vesti.html</loc>
+			<loc>https://vuk480.github.io/Jedinstvo-Volley/vesti.html</loc>
 			<lastmod>2023-14-03</lastmod>
 			<changefreq>weekly</changefreq>
 			<priority>0.9</priority>
 		</url>
 		<url>
-			<loc>https://okjedinstvo.000webhostapp.com/autor.html</loc>
+			<loc>https://vuk480.github.io/Jedinstvo-Volley/autor.html</loc>
 			<lastmod>2023-14-03</lastmod>
 			<changefreq>yearly</changefreq>
 			<priority>0.6</priority>
